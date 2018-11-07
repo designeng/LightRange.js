@@ -1,0 +1,15 @@
+{
+  "name": "lightrange",
+  "version": "2.2.1",
+  "description": "A simple and lightweight selection, range and caret information library in native JavaScript, with an additional selection save & restore system.",
+  "main": "./src/LightRange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designeng/LightRange.js.git"
+  },
+  "author": "n457",
+  "license": "ISC"
+}
