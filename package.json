@@ -1,6 +1,6 @@
 {
   "name": "lightrange",
-  "version": "2.2.1",
+  "version": "v2.2.1",
   "description": "A simple and lightweight selection, range and caret information library in native JavaScript, with an additional selection save & restore system.",
   "main": "./src/LightRange.js",
   "scripts": {
